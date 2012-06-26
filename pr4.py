@@ -29,8 +29,8 @@ while i <= _maxLimit:
 	k = _minLimit
 
 	while k <= _maxLimit:
-		if isPalindromic(i*k):
-			arr.append(i*k)
+		if isPalindromic( i*k ):
+			arr.append( i*k )
 		k += 1
 	i += 1
 
