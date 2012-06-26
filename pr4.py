@@ -22,9 +22,8 @@ def isPalindromic( number ):
 
 	return( False )
 
-i = _minLimit
-k = _minLimit
 arr = []
+i = _minLimit
 
 while i <= _maxLimit:
 	k = _minLimit
